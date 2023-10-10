@@ -5,6 +5,6 @@ int main(){
     tyre=512;
     four= (tyre-3*vehicle);
     three= vehicle-four;
-    printf(" three wheeler are %d\nfour wheeler are %d", three,four);
+    printf(" Three wheeler are %d\nFour wheeler are %d", three,four);
     return 0;
 }
